@@ -1,0 +1,1 @@
+Projede Firebase Auth, Firebase Database, Firebase Storage servisleri kullanılmıştır. Uygulamada anılarınızı paylaşabileceğiniz bir ekran ve ayrıca anıları görebileceğiniz bir feed ekranı bulunmaktadır.
